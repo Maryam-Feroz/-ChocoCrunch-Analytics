@@ -6,3 +6,5 @@ pymysql>=1.1
 matplotlib>=3.8
 seaborn>=0.12
 plotly>=6.0
+altair>=5.0
+requests>=2.31
